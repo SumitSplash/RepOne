@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count = "1" name="Onboarding ELA and Onboarding 3.0 test Suite" parallel = "tests" >
+ <listeners>
+<listener class-name="com.splashlearn.utils.listener.Test_Listener"/>
+</listeners>   
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Onboarding 3.0" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Curriculum3OnboardingTestCase"/>
+        </classes>
+        </test>
+        
+        <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Onboarding ELA" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_ELAOnboardingTestCase"/>
+        </classes>
+        </test>
+        </suite>
