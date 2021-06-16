@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count = "1" name="Android Math Login Grade PreK Till Grade 1 Test Suite" parallel = "tests" >
+ <listeners>
+<listener class-name="com.splashlearn.utils.listener.Test_Listener"/>
+</listeners>   
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade PreK" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGradePreKMath"/>
+        </classes>
+ </test>  
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name=" Android Math Login Grade K" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGradeKMath"/>
+        </classes>
+ </test>  
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade 1" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade1Math"/>
+        </classes></test>
+        
+        </suite>
