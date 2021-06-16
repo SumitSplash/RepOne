@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count = "1" name="ELA Purchase Login Suite" parallel = "tests" >
+ <listeners>
+<listener class-name="com.splashlearn.utils.listener.Test_Listener"/>
+</listeners>   
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Login English Subject Grade PreK" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_ELA_Onboarding_PurchaseFlowTestCase"/>
+        </classes>
+ </test>  
+</suite>
+
+
