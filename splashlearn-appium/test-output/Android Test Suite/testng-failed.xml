@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Android Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="overallDevicesRequired" value="1"/>
+  <listeners>
+    <listener class-name="com.splashlearn.utils.listener.Test_Listener"/>
+  </listeners>
+  <test thread-count="1" parallel="methods" name="Android Login English Subject Grade PreK(failed)">
+    <classes>
+      <class name="com.splashlearn.test.android.And_Login_Test_CaseGradePreKEnglish">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="AndroidLoginTestCaseGradePreKEnglish"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="sendingEmail"/>
+        </methods>
+      </class> <!-- com.splashlearn.test.android.And_Login_Test_CaseGradePreKEnglish -->
+    </classes>
+  </test> <!-- Android Login English Subject Grade PreK(failed) -->
+  <test thread-count="1" parallel="methods" name="Android Login English Subject Grade K(failed)">
+    <classes>
+      <class name="com.splashlearn.test.android.And_Login_Test_CaseGradeKEnglish">
+        <methods>
+          <include name="AndroidLoginTestCaseGradeKEnglish"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="sendingEmail"/>
+        </methods>
+      </class> <!-- com.splashlearn.test.android.And_Login_Test_CaseGradeKEnglish -->
+    </classes>
+  </test> <!-- Android Login English Subject Grade K(failed) -->
+  <test thread-count="1" parallel="methods" name="Android Login English Subject Grade 1(failed)">
+    <classes>
+      <class name="com.splashlearn.test.android.And_Login_Test_CaseGrade1English">
+        <methods>
+          <include name="AndroidLoginTestCaseGrade1English"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="sendingEmail"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.splashlearn.test.android.And_Login_Test_CaseGrade1English -->
+    </classes>
+  </test> <!-- Android Login English Subject Grade 1(failed) -->
+  <test thread-count="1" parallel="methods" name="Android Login English Subject Grade 2(failed)">
+    <classes>
+      <class name="com.splashlearn.test.android.And_Login_Test_CaseGrade2English">
+        <methods>
+          <include name="AndroidLoginTestCaseGrade2English"/>
+          <include name="sendingEmail"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.splashlearn.test.android.And_Login_Test_CaseGrade2English -->
+    </classes>
+  </test> <!-- Android Login English Subject Grade 2(failed) -->
+</suite> <!-- Failed suite [Android Test Suite] -->

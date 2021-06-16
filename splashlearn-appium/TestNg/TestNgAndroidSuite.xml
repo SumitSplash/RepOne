@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count = "1" name="Android Test Suite" parallel = "tests" >
+ <listeners>
+<listener class-name="com.splashlearn.utils.listener.Test_Listener"/>
+</listeners>  
+
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Onboarding ELA" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_ELAOnboardingTestCase"/>
+        </classes>
+        </test>  
+        
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade PreK" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGradePreKMath"/>
+        </classes>
+ </test>  
+        
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Login English Subject Grade PreK" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Login_Test_CaseGradePreKEnglish"/>
+        </classes>
+ </test>   
+ 
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name=" Android Math Login Grade K" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGradeKMath"/>
+        </classes>
+ </test>    
+ 
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Login English Subject Grade K" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Login_Test_CaseGradeKEnglish"/>
+        </classes>
+ </test> 
+ 
+ 
+   <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade 1" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade1Math"/>
+        </classes>
+        </test>
+  
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Login English Subject Grade 1" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Login_Test_CaseGrade1English"/>
+        </classes>
+ </test>     
+  
+    <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade 2" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade2Math"/>
+        </classes>
+ </test>  
+  
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Login English Subject Grade 2" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Login_Test_CaseGrade2English"/>
+        </classes>
+ </test>  
+ 
+   <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Onboarding 3.0" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_Curriculum3OnboardingTestCase"/>
+        </classes>
+        </test>
+        
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name=" Android Math Login Grade 3" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade3Math"/>
+        </classes>
+ </test>  
+ 
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade 4" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade4Math"/>
+        </classes>
+ </test>  
+ 
+  <parameter name="overallDevicesRequired" value="1" />
+    <test name="Android Math Login Grade 5" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.AND_Login_Test_CaseGrade5Math"/>
+        </classes>
+ </test>  
+ 
+   <parameter name="overallDevicesRequired" value="1" />
+    <test name="ELA Purchase Both Subject" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.android.And_ELA_Onboarding_PurchaseFlowTestCase"/>
+        </classes>   
+        </test>         
+        </suite>
