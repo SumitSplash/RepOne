@@ -1,0 +1,51 @@
+
+i
+java:S1104 "NMake EP a static final constant or non-public and provide accessors if needed.(–ŠÀóýÿÿÿÿ
+g	java:S116""MRename this field "AG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌëÙìùÿÿÿÿ
+c	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¾Òƒ
+^	java:S125€"<This block of commented-out lines of code should be removed.(’·Ûçýÿÿÿÿ8¥¼ÿì«.
+h	java:S116"NRename this field "GSS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÐŒêøÿÿÿÿ
+g	java:S116 "MRename this field "EP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ŠÀóýÿÿÿÿ
+j
+java:S1104"OMake PDS a static final constant or non-public and provide accessors if needed.(ÜÞ¼ýÿÿÿÿ
+j
+java:S1104"OMake HLS a static final constant or non-public and provide accessors if needed.(©äÊþÿÿÿÿ
+i
+java:S1104""NMake AG a static final constant or non-public and provide accessors if needed.(ÌëÙìùÿÿÿÿ
+k
+java:S1104"PMake HLBD a static final constant or non-public and provide accessors if needed.(œˆÝëûÿÿÿÿ
+j
+java:S1104"OMake GSS a static final constant or non-public and provide accessors if needed.(¯ÐŒêøÿÿÿÿ
+f
+java:S1104#"PMake MGLS a static final constant or non-public and provide accessors if needed.(¥ÏÁ¼
+X	java:S125}"<This block of commented-out lines of code should be removed.(’ŸÁè8¥¼ÿì«.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿÈ¹øÿÿÿÿ8ÁÇµì«.
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¾Òƒ
+]	java:S125r"<This block of commented-out lines of code should be removed.(’·Ûçýÿÿÿÿ8¥¼ÿì«.
+Q	java:S125%"<This block of commented-out lines of code should be removed.(þÄÊÃ
+i
+java:S1104"NMake SS a static final constant or non-public and provide accessors if needed.(žÜèˆüÿÿÿÿ
+j
+java:S1104$"OMake log a static final constant or non-public and provide accessors if needed.(é¼º–ÿÿÿÿÿ
+i	java:S116"ORename this field "HLBD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œˆÝëûÿÿÿÿ
+c	java:S116"NRename this field "MGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘Ç
+o	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÿ¸êýÿÿÿÿ8ŠÃ€í«.
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¾Òƒ
+m	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å”Š®8¥¼ÿì«.
+m
+java:S1104"RMake Result a static final constant or non-public and provide accessors if needed.(­«Á¸ùÿÿÿÿ
+i
+java:S1104"NMake MD a static final constant or non-public and provide accessors if needed.(µØñùÿÿÿÿ
+k	java:S116"QRename this field "Result" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­«Á¸ùÿÿÿÿ
+g	java:S116"MRename this field "MD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µØñùÿÿÿÿ
+h	java:S116"NRename this field "HLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©äÊþÿÿÿÿ
+g	java:S116"MRename this field "SS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÜèˆüÿÿÿÿ
+]	java:S125_"<This block of commented-out lines of code should be removed.(“÷ªûÿÿÿÿ8ŠÃ€í«.
+e
+java:S1104"OMake MGS a static final constant or non-public and provide accessors if needed.(¹‘Ç
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ö»ëýÿÿÿÿ
+j	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å”Š®8¥¼ÿì«.
+d	java:S116#"ORename this field "MGLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÏÁ¼
+h	java:S116"NRename this field "PDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÞ¼ýÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(™´ÄÐ
+m	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å”Š®8¥¼ÿì«.

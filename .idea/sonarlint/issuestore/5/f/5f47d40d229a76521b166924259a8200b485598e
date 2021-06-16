@@ -1,0 +1,30 @@
+
+‰
+java:S1130'"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(›§ë†8‘ÓÚ‰¬.
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¤ûúÿÿÿÿ8Ç˜Ş‰¬.
+
+java:S1130/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ä¤ûúÿÿÿÿ8Ç˜Ş‰¬.
+o	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¦‘ˆşÿÿÿÿ8Ç˜Ş‰¬.
+n	java:S116"TRename this field "SecondBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å“îœüÿÿÿÿ
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½èè8Ç˜Ş‰¬.
+m	java:S116"SRename this field "ThirdBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜–œòùÿÿÿÿ
+
+java:S11307"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¼¦‘ˆşÿÿÿÿ8Ç˜Ş‰¬.
+n	java:S116""TRename this field "FourthBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒ©ãşÿÿÿÿ
+‰
+java:S1130+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(×½èè8Ç˜Ş‰¬.
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¤ûúÿÿÿÿ8Ç˜Ş‰¬.
+G
+java:S1068"*Remove this unused "driver" private field.(—‡8Ç˜Ş‰¬.
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÉÏ¬8Ç˜Ş‰¬.
+m	java:S116"SRename this field "FirstBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( çÅªÿÿÿÿÿ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›§ë†
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÉÏ¬8Ç˜Ş‰¬.
+‰
+java:S11303"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(½ÉÏ¬8Ç˜Ş‰¬.
+p	java:S116%"VRename this field "GrownUpText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æ‡¨øÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›§ë†
+o	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÈ‹ÿÿÿÿÿ8Ç˜Ş‰¬.
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½èè8Ç˜Ş‰¬.
+K
+java:S2387"."driver" is the name of a field in "BasePage".(—‡8‘ÓÚ‰¬.

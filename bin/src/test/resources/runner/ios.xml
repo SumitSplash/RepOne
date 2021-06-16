@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Teacher login test">
+
+    <listeners>
+        <listener class-name="com.splashlearn.utils.listener.TestListener"/>
+    </listeners>
+
+    <test name="Login via Username and Password">
+        <classes>
+            <class name="com.splashlearn.test.ios.OnBoardingTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,16 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(­Ñ‘•
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(£²ÆŒüÿÿÿÿ8ŸÌ§ì«.
+i	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ—»28ŸÌ§ì«.
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(—¾ž„
+>	java:S108b")Either remove or fill this block of code.(ä ¹€
+X	java:S125Q"<This block of commented-out lines of code should be removed.(—¾ž„8ŸÌ§ì«.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ç½¶øýÿÿÿÿ8ŸÌ§ì«.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ûÝãÙ8ŸÌ§ì«.
+W
+java:S1141$"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ŸÌ§ì«.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(«†’˜øÿÿÿÿ8ŸÌ§ì«.
+j	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ç„×8ŸÌ§ì«.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(”­ô÷ÿÿÿÿÿ8ŸÌ§ì«.
+\
+java:S2142b"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

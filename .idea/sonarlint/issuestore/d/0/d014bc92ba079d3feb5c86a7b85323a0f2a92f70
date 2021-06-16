@@ -1,0 +1,10 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êœ×¡şÿÿÿÿ
+r	java:S116"]Rename this field "SettingsBackButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İí×ê
+j	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÏ°·8Ÿ€û‰¬.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äèûıÿÿÿÿ8Ÿ€û‰¬.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”â·±
+k	java:S116"WRename this field "AccountTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ëŸN
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ıøÿÿÿÿ8Ÿ€û‰¬.
+o	java:S116"URename this field "FirstChild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°øï‰şÿÿÿÿ

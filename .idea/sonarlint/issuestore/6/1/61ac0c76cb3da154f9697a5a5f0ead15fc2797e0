@@ -1,0 +1,16 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÄÓÓ8Ñ‘à‰¬.
+u	java:S116"[Rename this field "PrivacyPolicyBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ï’øÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùÿ’Ø
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è©È©
+j	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üâ•°8Ñ‘à‰¬.
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ıøÿÿÿÿ8Ñ‘à‰¬.
+Q	java:S1254"<This block of commented-out lines of code should be removed.(öÑì‰
+r	java:S116"XRename this field "GetStartedBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™·øÿÿÿÿ
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ğ‡áÿÿÿÿÿ8Ñ‘à‰¬.
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÔùÈúÿÿÿÿ8Ñ‘à‰¬.
+t	java:S116"_Rename this field "AlreadyRegisteredBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„¡Êıÿÿÿÿ8Ñ‘à‰¬.
+j
+java:S1128	"HRemove this unused import 'io.appium.java_client.android.AndroidDriver'.(ç•Ø®ıÿÿÿÿ8Ğ®á‰¬.

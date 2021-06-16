@@ -1,0 +1,30 @@
+
+l	java:S116"XRename this field "RandomGameId1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¥½'
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‚˜Š
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚¦Äüÿÿÿÿ
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(·ÕïÀÿÿÿÿÿ8ÔÜó‰¬.
+m	java:S116"XRename this field "RandomGameId2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¥ƒö
+Ž
+java:S1130J"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(£ê„¿ÿÿÿÿÿ8ì›—‹¬.
+|	java:S116."bRename this field "NoInternetpopupOkButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ð¤‰ýÿÿÿÿ
+Ž
+java:S1130@"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Æ¯åÿÿÿÿÿ8ì›—‹¬.
+{	java:S116+"aRename this field "NoInternetpopupHeading" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åü‘éûÿÿÿÿ
+r	java:S116%"XRename this field "RandomGameId4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ðÓ¤üÿÿÿÿ
+o	java:S116"URename this field "BackButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÈšËûÿÿÿÿ
+	java:S1164"jRename this field "SomethingWentWrongPopupOkButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜·Ñ
+‰
+java:S1130<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(š‚˜Š8ì›—‹¬.
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ñ°úÿÿÿÿ
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÎ­»ÿÿÿÿÿ8ÔÜó‰¬.
+~	java:S1161"iRename this field "SomethingWentWrongPopupHeading" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÜà»
+r	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ùÔ¿þÿÿÿÿ8ÔÜó‰¬.
+o	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ê„¿ÿÿÿÿÿ8ÔÜó‰¬.
+o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¯åÿÿÿÿÿ8ÔÜó‰¬.
+m	java:S116"SRename this field "LeveleId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ö¿ºýÿÿÿÿ
+Ž
+java:S1130D"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ñÎ­»ÿÿÿÿÿ8ì›—‹¬.
+p	java:S116"VRename this field "PageHeading" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñùåüÿÿÿÿ
+j	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ùþ¬8ÔÜó‰¬.
+m	java:S116("SRename this field "LevelIDX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«°Áýÿÿÿÿ
+m	java:S116""XRename this field "RandomGameId3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÄØ®

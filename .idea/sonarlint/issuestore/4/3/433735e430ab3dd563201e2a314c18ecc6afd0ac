@@ -1,0 +1,37 @@
+
+j
+java:S1128
+"HRemove this unused import 'io.appium.java_client.android.AndroidDriver'.(ç•Ø®ıÿÿÿÿ8Æ¯ò‰¬.
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÜÏßüÿÿÿÿ
+s	java:S116)"^Rename this field "ClassroomAccountBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã´ÀÕ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(öÑì‰
+u	java:S116,"[Rename this field "PrivacyPolicyBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ï’øÿÿÿÿ
+n	java:S116"YRename this field "EmailTextField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òõÒæ
+r	java:S116 "]Rename this field "ForgotPasswordLink" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óãß
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àà±Ûøÿÿÿÿ
+v	java:S116"\Rename this field "PasswordTextField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŞÜıÿÿÿÿ
+m	java:S116&"SRename this field "LoginBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­’¾Çıÿÿÿÿ
+p	java:S116"[Rename this field "HomeLoginHeading" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ»Ò™
+h	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÇ²èÿÿÿÿÿ
+{	java:S116#"aRename this field "NewUserRegistraionLink" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¯âşÿÿÿÿ
+o	java:S116"ZRename this field "HomeCrossButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡´ú³
+m	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìË÷ª8ÔËò‰¬.
+m	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„º¥8ÔËò‰¬.
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ıøÿÿÿÿ8ÔËò‰¬.
+o	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¾Ì•ıÿÿÿÿ8ÔËò‰¬.
+o	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÌ“‘øÿÿÿÿ8ÔËò‰¬.
+j	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¾á 8ÔËò‰¬.
+o	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Áé½ıÿÿÿÿ8ÔËò‰¬.
+i	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤¶18ÔËò‰¬.
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è‰±±8ÔËò‰¬.
+o	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŸ²¹úÿÿÿÿ8ÔËò‰¬.
+o	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª«‡âûÿÿÿÿ8ÔËò‰¬.
+o	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŠí·øÿÿÿÿ8ÔËò‰¬.
+j	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìË÷ª8ÔËò‰¬.
+j	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„º¥8ÔËò‰¬.
+j	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‡‹8ÔËò‰¬.
+o	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¤¨õùÿÿÿÿ8ÔËò‰¬.
+j	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–†ëÁ8ÔËò‰¬.
+j	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í÷ Â8ÔËò‰¬.
+o	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”àŞ¼øÿÿÿÿ8ÔËò‰¬.

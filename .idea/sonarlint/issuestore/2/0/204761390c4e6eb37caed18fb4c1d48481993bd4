@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+:
+java:S2119Œ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(ŞÛ¨®øÿÿÿÿ
+9
+java:S2119~"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+9
+java:S2119d"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+g	java:S116'"MRename this field "Ok" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áöæ³úÿÿÿÿ
+9
+java:S2119s"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119œ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ

@@ -1,0 +1,11 @@
+*.apk
+*.ipa
+*.app
+
+.settings/
+.idea/
+.classpath
+.project
+/target/
+/app/android/*
+/app/ios/*

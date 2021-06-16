@@ -1,0 +1,20 @@
+
+t	java:S116"ZRename this field "ScreenNameTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÆ¸Ëúÿÿÿÿ
+t	java:S116"_Rename this field "ChangeGradeYesButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅïÉ€
+u	java:S116"`Rename this field "ChangeGradePopuptitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õËŽ¶
+D
+java:S2387"."driver" is the name of a field in "BasePage".(ž—ž‡
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½˜÷¨ýÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù…Ý•ûÿÿÿÿ
+u	java:S116%"`Rename this field "EditProfileBackButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Š“ž
+s	java:S116"^Rename this field "ChangeGradeNoButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­€þþ
+m	java:S116""XRename this field "SelectedGrade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÕè¼
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŽÀ±8þµß‰¬.
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ýøÿÿÿÿ8þµß‰¬.
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïû¶¸8þµß‰¬.
+j	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÆÿÔ8þµß‰¬.
+j	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŽÀ±8þµß‰¬.
+j	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éØŠ±8þµß‰¬.
+G
+java:S1068"*Remove this unused "driver" private field.(ž—ž‡8þµß‰¬.

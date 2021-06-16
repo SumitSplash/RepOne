@@ -1,0 +1,23 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï»úÁ
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çê„é8™šô‰¬.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(à¡—«øÿÿÿÿ8™šô‰¬.
+L
+java:S1854?"6Remove this useless assignment to local variable "el".(«Äàí
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…„Àûÿÿÿÿ
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÙÎøÿÿÿÿ8™šô‰¬.
+^
+java:S1128"IRemove this unused import 'io.appium.java_client.android.AndroidElement'.(ß°›"
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¡š¡üÿÿÿÿ8™šô‰¬.
+o	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÙÎøÿÿÿÿ8™šô‰¬.
+u	java:S116"[Rename this field "GamesPageHeading" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÙÃùÿÿÿÿ
+p	java:S116"VRename this field "GamesNameID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ë²•şÿÿÿÿ
+o	java:S116"URename this field "BackButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÈšËûÿÿÿÿ
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ıøÿÿÿÿ8™šô‰¬.
+=
+java:S1481?"'Remove this unused "el" local variable.(«Äàí
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¡š¡üÿÿÿÿ8™šô‰¬.
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ€®­ùÿÿÿÿ
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÊœÓıÿÿÿÿ8™šô‰¬.
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çê„é8™šô‰¬.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count = "3" name="PCloudy_Suite" parallel = "tests" >
+    <parameter name="overallDevicesRequired" value="3" />
+    <test name="iPhone" preserve-order="false" parallel = "methods">
+        <classes>
+            <class name="com.splashlearn.test.ios.ParentBytesizeTest_iPad"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->

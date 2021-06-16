@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+h
+java:S1128"FRemove this unused import 'com.splashlearn.app.library.AppiumLibrary'.(ßã‘ýøÿÿÿÿ8Ùœý‰¬.
+W
+java:S1161k":Add the "@Override" annotation above this method signature(¿é É8Ùœý‰¬.
+@
+java:S2119p"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Ùœý‰¬.
+E
+java:S1172z"(Remove this unused method parameter "s".(ì´Áº8Ùœý‰¬.
+Z
+java:S1117{"8Rename "name" which hides the field declared at line 33.(ù§êÜýÿÿÿÿ8Ùœý‰¬.

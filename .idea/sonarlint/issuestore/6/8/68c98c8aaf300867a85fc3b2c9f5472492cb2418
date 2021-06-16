@@ -1,0 +1,71 @@
+
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(½ËÈÌøÿÿÿÿ8°Øì«.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ŸÓ¶şÿÿÿÿ8°Øì«.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(§‚Î8°Øì«.
+p	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒßŸçüÿÿÿÿ8Úÿëì«.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(õúõ­8°Øì«.
+O
+java:S1199?"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8°Øì«.
+X	java:S125r"<This block of commented-out lines of code should be removed.(ù¼îŠ8°Øì«.
+p	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÓßÇúÿÿÿÿ8àÇİì«.
+p	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úıÿÿÿÿ8Úÿëì«.
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Úÿëì«.
+]	java:S125)"<This block of commented-out lines of code should be removed.(Íôï¬ûÿÿÿÿ8°Øì«.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(·¨¥Æÿÿÿÿÿ8°Øì«.
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ĞÕ„´8°Øì«.
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(ç®¤‘8Úÿëì«.
+^	java:S125±"<This block of commented-out lines of code should be removed.(ïÁõĞÿÿÿÿÿ8Úÿëì«.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(“ äó8°Øì«.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(“ÕÓÍ8°Øì«.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(ğúÛİüÿÿÿÿ8°Øì«.
+p	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ççÚŞıÿÿÿÿ8àÇİì«.
+š
+java:S1130é"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.( Ù«˜øÿÿÿÿ8šè§ğ«.
+p	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦ƒ·ÿÿÿÿÿ8Úÿëì«.
+p	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦àÍ¢üÿÿÿÿ8àÇİì«.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Úÿëì«.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(‰×»óùÿÿÿÿ8°Øì«.
+k	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì€İ‚8àÇİì«.
+>
+java:S1116-"Remove this empty statement.(Åñ­õşÿÿÿÿ8°Øì«.
+Ã
+java:S1192Š"ŸDefine a constant instead of duplicating this literal "//XCUIElementTypeOther[@name=\"StudyPad-Games\"]/XCUIElementTypeOther/XCUIElementTypeImage[3]" 12 times.(Ú¤ìãşÿÿÿÿ8Úÿëì«.
+¨
+java:S1192ƒ"„Define a constant instead of duplicating this literal "//XCUIElementTypeOther[@name=\"Study Pad\"]/XCUIElementTypeOther[5]" 6 times.(±˜©äÿÿÿÿÿ8Úÿëì«.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úá£!8°Øì«.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¦®¼è8°Øì«.
+W	java:S125S"<This block of commented-out lines of code should be removed.(¨É/8°Øì«.
+k	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿçÓ8àÇİì«.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ŒÛŒ‚şÿÿÿÿ8°Øì«.
+]	java:S125/"<This block of commented-out lines of code should be removed.(††²èùÿÿÿÿ8°Øì«.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ç®¤‘8Úÿëì«.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ƒŞÓË8°Øì«.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(ê‡•ıÿÿÿÿ8Úÿëì«.
+p	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò÷úÆúÿÿÿÿ8Úÿëì«.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ê‡•ıÿÿÿÿ8Úÿëì«.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Î”¸üÿÿÿÿ8°Øì«.
+p	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Æ•ûÿÿÿÿ8Úÿëì«.
+p	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²…Şˆùÿÿÿÿ8àÇİì«.
+p	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëú¥äıÿÿÿÿ8àÇİì«.
+X	java:S125}"<This block of commented-out lines of code should be removed.(×œ•·8°Øì«.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ùñ¯Çşÿÿÿÿ8°Øì«.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(”âõ­ùÿÿÿÿ8°Øì«.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ô®ıÆıÿÿÿÿ8°Øì«.
+k	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈµ”8àÇİì«.
+k	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ˆà¿8Úÿëì«.
+p	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Í£íÿÿÿÿÿ8Úÿëì«.
+p	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ù«˜øÿÿÿÿ8Úÿëì«.
+k	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õâ¼8Úÿëì«.
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Úÿëì«.
+p	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö‡Ê·ÿÿÿÿÿ8àÇİì«.
+}
+java:S1488÷"_Immediately return this expression instead of assigning it to the temporary variable "strDate".(®¤²Š8Úÿëì«.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ŒÖ‹Üşÿÿÿÿ8°Øì«.
+
+java:S1192œ"^Define a constant instead of duplicating this literal "SPBytesizeQuestionLevelButton" 3 times.(‚½Ù“ÿÿÿÿÿ8Úÿëì«.
+x
+java:S1192Œ"UDefine a constant instead of duplicating this literal "SPByteSizeGameCross" 12 times.(Ä•ó˜ùÿÿÿÿ8Úÿëì«.
+k
+java:S1192u"IDefine a constant instead of duplicating this literal "Sign out" 3 times.(è÷«üÿÿÿÿ8°Øì«.
+Y	java:S125†"<This block of commented-out lines of code should be removed.(“ äó8°Øì«.
+^	java:S125•"<This block of commented-out lines of code should be removed.(¹ÿİûÿÿÿÿ8°Øì«.

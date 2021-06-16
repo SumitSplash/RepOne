@@ -1,0 +1,26 @@
+
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(¬Œßş8ççí«.
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(·–’üÿÿÿÿ8ççí«.
+[	java:S106ì"9Replace this use of System.out or System.err by a logger.(¹áçŞúÿÿÿÿ8ççí«.
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(ÚÕÒ´8ççí«.
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(òõ¨§ûÿÿÿÿ8ççí«.
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(ñ×áâüÿÿÿÿ8ççí«.
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(òõ¨§ûÿÿÿÿ8ççí«.
+U	java:S106ö"9Replace this use of System.out or System.err by a logger.(Á–‹8ççí«.
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ñ×áâüÿÿÿÿ8ççí«.
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(·–’üÿÿÿÿ
+Y	java:S125"<This block of commented-out lines of code should be removed.(®²”â8ççí«.
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(é‹²8ççí«.
+A
+java:S2119é"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ççí«.
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(çÒ±·ùÿÿÿÿ8ççí«.
+A
+java:S2119ó"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ççí«.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÑŞö]8ççí«.
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(óŠÍŠÿÿÿÿÿ8ççí«.
+V	java:S106ë"9Replace this use of System.out or System.err by a logger.(ÊÈÀÍ8ççí«.
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÑŞö]8ÍÈé¬.
+š
+java:S1130Ó"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(öÉ²éşÿÿÿÿ8ÍÈé¬.
